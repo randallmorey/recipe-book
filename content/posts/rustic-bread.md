@@ -1,7 +1,6 @@
 ---
 title: "Rustic Bread"
 date: 2017-12-19T10:06:17-05:00
-draft: true
 type: 'post'
 categories: ['baking']
 ---
