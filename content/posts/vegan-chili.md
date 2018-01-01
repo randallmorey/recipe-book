@@ -1,13 +1,12 @@
 ---
 title: "Vegan Chili"
 date: 2018-1-1T12:00:00-05:00
-draft: true
 type: 'post'
 categories: ['meals']
 ---
 
 This hearty vegan chili recipe took first place in a chili contest, beating even meat-based entries.  The key to a perfect vegan chili is to select the freshest vegetables and pre-roast them, according to the recipe.
-
+<!--more-->
 ## Ingredients
 
 <ul>
