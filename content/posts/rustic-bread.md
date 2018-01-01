@@ -3,9 +3,10 @@ title: "Rustic Bread"
 date: 2017-12-19T10:06:17-05:00
 draft: true
 type: 'post'
+categories: ['baking']
 ---
 
-foobar
+A rustic no-knead bread goes well with soups, stews, or just with some butter.
 
 ## Ingredients
 
@@ -48,8 +49,3 @@ The dough will rise and bubbles will appear.
 9. Turn the dough over a floured surface, gently shape it into a ball without pressing
 the dough.
 10. Place the dough into the Dutch oven and bake for 30 minutes covered.
-
-
-
-# foobar
-# barfoo
