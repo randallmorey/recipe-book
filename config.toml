@@ -4,6 +4,7 @@ languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
 canonifyurls    = true
+publishDir      = "docs"
 
 [params]
   title       = "Hugo Casper Two"
@@ -16,10 +17,6 @@ canonifyurls    = true
   googleAnalytics = ""
   customCSS = []
   RSSLink = ""
-
-  twitterName = "faketryghost"
-  fbName = "fakeghost"
-  githubName = "eueung"
 
   logo = "hugo-logo.png"
   orgName = "EM"
@@ -43,11 +40,11 @@ canonifyurls    = true
   weight = 200
 
 [[menu.main]]
-  name = "Meals"
-  url = "/categories/meals/"
+  name = "Baking"
+  url = "/categories/baking/"
   weight = 100
 
 [[menu.main]]
-  name = "Baking"
-  url = "/categories/baking/"
+  name = "Meals"
+  url = "/categories/meals/"
   weight = 100
