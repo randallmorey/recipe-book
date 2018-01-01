@@ -11,14 +11,45 @@ foobar
 
 <ul>
   <li class="ingredient">
-    <span class="amount">100</span>
+    <span class="amount">500</span>
     <span class="unit">grams</span>
-    <span class="name">flour</span>
+    <span class="name">all purpose flour</span>
+  </li>
+  <li class="ingredient">
+    <span class="amount">380</span>
+    <span class="unit">grams</span>
+    <span class="name">warm water</span>
+  </li>
+  <li class="ingredient">
+    <span class="amount">10</span>
+    <span class="unit">grams</span>
+    <span class="name">salt</span>
+  </li>
+  <li class="ingredient">
+    <span class="amount">1</span>
+    <span class="unit">gram</span>
+    <span class="name">dry active yeast</span>
   </li>
 </ul>
 
-
 ## Steps
+
+1. Mix all the ingredients together in a large bowl. This will be a wet dough.
+2. Cover the bowl with plastic film and let it proof for 20 minutes in the oven
+with the proof setting or in a warm place.
+3. Pull and stretch the sides of the dough folding it over. Do it for all the
+sides of the dough.
+4. Repeat steps 2 and 3 three more times.
+5. Let the dough proof for at least 8 hours (can be done overnight) in a warm place.
+The dough will rise and bubbles will appear.
+6. Sprinkle flour on the sides of the dough, pull, stretch and fold it one last time.
+7. Let it proof for 1 hour in a proofing basket.
+8. Preheat the oven with a Dutch oven in to 260 degrees Celsius.
+9. Turn the dough over a floured surface, gently shape it into a ball without pressing
+the dough.
+10. Place the dough into the Dutch oven and bake for 30 minutes covered.
+
+
 
 # foobar
 # barfoo
