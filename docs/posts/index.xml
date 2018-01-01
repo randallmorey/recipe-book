@@ -6,20 +6,9 @@
     <description>Recent content in Posts on Recipe Book</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 19 Dec 2017 10:06:17 -0500</lastBuildDate>
     
 	<atom:link href="https://randallmorey.github.io/recipe-book/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Rustic Bread</title>
-      <link>https://randallmorey.github.io/recipe-book/posts/rustic-bread/</link>
-      <pubDate>Tue, 19 Dec 2017 10:06:17 -0500</pubDate>
-      
-      <guid>https://randallmorey.github.io/recipe-book/posts/rustic-bread/</guid>
-      <description> foobar
-Ingredients  100 grams flour   Steps foobar barfoo </description>
-    </item>
     
     <item>
       <title>Vegan Chili</title>
@@ -27,8 +16,8 @@ Ingredients  100 grams flour   Steps foobar barfoo </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://randallmorey.github.io/recipe-book/posts/vegan-chili/</guid>
-      <description> Description goes here.
-Ingredients  3  carrots skin removed and diced  1  onion chopped  5  cayenne peppers fresh, whole  10  garlic cloves peeled  3  tomatoes sliced  1 can white beans drained   Steps foobar barfoo </description>
+      <description>&lt;p&gt;This hearty vegan chili recipe took first place in a chili contest, beating even meat-based entries.  The key to a perfect vegan chili is to select the freshest vegetables and pre-roast them, according to the recipe.
+&lt;/p&gt;</description>
     </item>
     
   </channel>
