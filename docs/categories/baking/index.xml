@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Recipe Book</title>
-    <link>https://randallmorey.github.io/recipe-book/posts/</link>
-    <description>Recent content in Posts on Recipe Book</description>
+    <title>Baking on Recipe Book</title>
+    <link>https://randallmorey.github.io/recipe-book/categories/baking/</link>
+    <description>Recent content in Baking on Recipe Book</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 19 Dec 2017 10:06:17 -0500</lastBuildDate>
     
-	<atom:link href="https://randallmorey.github.io/recipe-book/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://randallmorey.github.io/recipe-book/categories/baking/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>https://randallmorey.github.io/recipe-book/posts/rustic-bread/</guid>
       <description>A rustic no-knead bread goes well with soups, stews, or just with some butter.
 Ingredients  500 grams all purpose flour  380 grams warm water  10 grams salt  1 gram dry active yeast   Steps  Mix all ingredients in a large bowl. This will be a wet dough. Cover the bowl with plastic film and prove for 20 minutes in a proving oven or a warm place.</description>
-    </item>
-    
-    <item>
-      <title>Vegan Chili</title>
-      <link>https://randallmorey.github.io/recipe-book/posts/vegan-chili/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://randallmorey.github.io/recipe-book/posts/vegan-chili/</guid>
-      <description>&lt;p&gt;This hearty vegan chili recipe took first place in a chili contest, beating even meat-based entries.  The key to a perfect vegan chili is to select the freshest vegetables and pre-roast them, according to the recipe.
-&lt;/p&gt;</description>
     </item>
     
   </channel>
