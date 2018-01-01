@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Recipe Book</title>
+    <link>https://randallmorey.github.io/recipe-book/posts/</link>
+    <description>Recent content in Posts on Recipe Book</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 19 Dec 2017 10:06:17 -0500</lastBuildDate>
+    
+	<atom:link href="https://randallmorey.github.io/recipe-book/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rustic Bread</title>
+      <link>https://randallmorey.github.io/recipe-book/posts/rustic-bread/</link>
+      <pubDate>Tue, 19 Dec 2017 10:06:17 -0500</pubDate>
+      
+      <guid>https://randallmorey.github.io/recipe-book/posts/rustic-bread/</guid>
+      <description> foobar
+Ingredients  100 grams flour   Steps foobar barfoo </description>
+    </item>
+    
+    <item>
+      <title>Vegan Chili</title>
+      <link>https://randallmorey.github.io/recipe-book/posts/vegan-chili/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://randallmorey.github.io/recipe-book/posts/vegan-chili/</guid>
+      <description> Description goes here.
+Ingredients  3  carrots skin removed and diced  1  onion chopped  5  cayenne peppers fresh, whole  10  garlic cloves peeled  3  tomatoes sliced  1 can white beans drained   Steps foobar barfoo </description>
+    </item>
+    
+  </channel>
+</rss>
