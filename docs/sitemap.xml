@@ -8,6 +8,16 @@
   </url>
   
   <url>
+    <loc>https://randallmorey.github.io/recipe-book/categories/meals/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://randallmorey.github.io/recipe-book/posts/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://randallmorey.github.io/recipe-book/</loc>
     <priority>0</priority>
   </url>
@@ -15,6 +25,10 @@
   <url>
     <loc>https://randallmorey.github.io/recipe-book/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://randallmorey.github.io/recipe-book/posts/vegan-chili/</loc>
   </url>
   
 </urlset>
