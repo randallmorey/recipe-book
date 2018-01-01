@@ -1,4 +1,4 @@
-baseurl         = "randallmorey.github.io/recipe-book/"
+baseurl         = "https://randallmorey.github.io/recipe-book/"
 theme           = "hugo-casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
