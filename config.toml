@@ -7,27 +7,27 @@ canonifyurls    = true
 publishDir      = "docs"
 
 [params]
-  title       = "Hugo Casper Two"
-  subtitle    = "Port of Casper 2.x for Hugo"
-  copyright   = "Released under the MIT license."
+  title       = "Recipe Book"
+  subtitle    = "Collected recipes"
+  copyright   = ""
 
-  cover       = "img/blog-cover.jpg"
-  description = "Here is a description of your site."
+  cover       = ""
+  description = ""
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
   RSSLink = ""
 
-  logo = "hugo-logo.png"
-  orgName = "EM"
-  orgWebsite = "https://www.telematika.org"
-  orgDescription = "Here is a description placeholder for your org"
+  logo = ""
+  orgName = "Recipes"
+  orgWebsite = "https://randallmorey.github.io/recipe-book/"
+  orgDescription = ""
 
-  author = "EM"
-  authorAvatar = "img/ghost-icon.png"
-  authorLocation = "Bandung, ID"
-  authorWebsite = "https://eueung.github.io"
-  authorDescription = "Your description here"
+  author = "Recipes"
+  authorAvatar = ""
+  authorLocation = ""
+  authorWebsite = ""
+  authorDescription = ""
 
   pageNotFoundTitle = "404 - Page not found"
 
